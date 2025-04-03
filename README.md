@@ -1,7 +1,7 @@
 # Alzheimer's Disease and Waste Data Analysis
 
 ## Overview
-This project analyzes the correlation between Alzheimer's disease prevalence and various waste indicators using multiple datasets. It merges waste composition, health expenditure, and Alzheimer's disease prevalence data to explore potential relationships.
+This project analyzes the correlation between Alzheimer's disease prevalence and various waste indicators using multiple datasets. It merges waste composition, health expenditure, and Alzheimer's disease prevalence data to explore potential relationships. The project was submitted to the Fall CMDA Club Data Competition 2025 at Virginia Tech and placed top 5.
 
 ## Datasets
 The following datasets are used in this analysis:
